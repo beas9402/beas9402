@@ -60,13 +60,19 @@
 ## Detailed Work Experience
 
 #### Thermo Fisher Scientific – Senior Embedded Software Engineer
-    Updated 32bit legacy code, untouched for 8 years, to 64bit. Backend is
-    written in C++ and the UI in C#. Added support for a new camera and other
-    new hardware. A Windows service drives HW and responds to gRPC requests from
-    the UI. I also crafted installer, integrating it into our CI\CD pipeline
-    utilizing Jenkins, GitLab, NuGet and Thermo Fisher’s in–house dependency 
-    manager. Added error propagation over gRPC from the service to the UI.
-
+    TEMLink™ Software: Led team as Scrum Master while continuing to develop software.  
+    Quickly ramped on existing legacy codebase, looking for opportunities to reduce  
+    architectural complexity and improve product reliability. Modernized outdated  
+    legacy code to x64, C++20, and latest .NET releases, using a gRPC microservice  
+    architecture. Added support for a new camera and other new hardware.  
+    Reworked the CI/CD pipeline utilizing Jenkins, GitLab, NuGet and Thermo Fisher’s  
+    in–house dependency manager. Implemented automated versioning, packaging, and 
+    deployment of backend API NuGet package, for use by other teams across the  
+    organization. Improved error handling and propagation across process boundaries,  
+    including marshaling data from native to managed memory spaces. Created 
+    installer package for backend, UI, services, and dependencies for the full 
+    software stack.  This included managing user level security access, creating 
+    and deploying SSL certificates, and managing DCOM security and registration.
 #### Intel Corporation – Senior Software Engineer
     Worked on multiple versions of client–side update application (Python\C++).
     Developed features and bug fixes for a headless SDK model of the update
