@@ -1,7 +1,7 @@
 # Rob Beasley
 
 ### Seeking
-    Staff\Principal\Senior Software Engineer Roles – Oregon or Remote
+    Staff\Principal\Senior Software Engineer Roles – Oregon, Portugal, or Remote
 
 ### Skills
     Embedded Software                          15 years
